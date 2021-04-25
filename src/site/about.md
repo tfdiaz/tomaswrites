@@ -1,10 +1,19 @@
 ---
-title: Get Yours
+title: About
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: Who am I?
 ---
 
-## Hosting
+## Purpose
+
+This blog will store ideas, problems, and random musings I have. While I hope an occasional visitor reads my work, I largely view this site as tool for myself. As such, I may go off in wild tangents, or worse, become entirely confusing. If this is the case, please leave a comment and I will get back to you. I’m always excited to talk about all these things.
+
+
+## My background
+
+I briefly worked in finance after college and found it just wasn't my thing. Was fortunate to join [42 Silicon Valley](https://www.42.fr/en/) where I grew to love the C language and computer science. I currently work full time as a software engineer at [KCSE](https://www.kcse.com/).
+
+## How is this site created
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
@@ -13,21 +22,3 @@ This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
 
 </div>
-
-## One-click deploy
-
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
-
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
-
-## 👆 Wait, what happens when I click that button?
-
-Good question. Here's what it will do...
-
-1. Netlify will clone the [git repository]({{pkg.repository.url}}) of this project into your GitHub account. You will be asked for the required permissions to add the repo for you.
-2. They'll create a new site for you in Netlify, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
-3. That's it really.
