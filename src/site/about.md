@@ -11,7 +11,7 @@ This blog will store ideas, problems, and random musings I have. While I hope an
 
 ## My background
 
-I briefly worked in finance after college and found it just wasn't my thing. Was fortunate to join [42 Silicon Valley](https://www.42.fr/en/) where I grew to love the C language and computer science. I currently work full time as a software engineer at [KCSE](https://www.kcse.com/).
+I briefly worked in finance after college and found it just wasn't my thing. Was fortunate to join [42 Silicon Valley](https://www.42.fr/en/) where I grew to love the C language and computer science. I now currently work full time as a software engineer at [KCSE](https://www.kcse.com/).
 
 ## How is this site created
 
