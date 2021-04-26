@@ -1,6 +1,6 @@
 ---
 title: Hello there
-subtitle: Personal site for my containing my thoughts and musings.
+subtitle: Personal site for containing my thoughts and musings.
 layout: layouts/base.njk
 ---
 

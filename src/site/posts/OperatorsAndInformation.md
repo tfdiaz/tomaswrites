@@ -5,7 +5,7 @@ date: 2019-02-12
 
 ## A disclaimer
 
-The purpose of the following is to add structure to certain ideas I've been thinking about. This is a tool to clarify my thoughts and so any reader should be skeptical of any assertions I make. I'm not an expert in any of these fields, but will attach resources to those who are. Beyond this aim, my hope is that the following may allow readers to share in the excitement and enjoyment of learning as I very much have and continue to do.
+*The purpose of the following is to add structure to certain ideas I've been thinking about. This is a tool to clarify my thoughts and so any reader should be skeptical of any assertions I make. I'm not an expert in any of these fields, but will attach resources to those who are. Beyond this aim, my hope is that the following may allow readers to share in the excitement and enjoyment of learning as I very much have and continue to do.*
 
 The question of logic, its value and use may either appear trivial or unimportant. Those who program or design systems will undoubtedly know of its use, but may have not spent much time on determining its value. Conditional statements (e.g. if-then clauses) are used to control steps of computation. They allow different actions to be taken for different inputs. Logical operators ( e.g. AND, OR, NOT) are filters to validate and select upon different inputs. They allow one input to be differentiated from another. The combination of these two classes, allows a path of computation to be constructed. Assume one only has these two methods available to them, can anything of interest be created, and if so, then why?
 
