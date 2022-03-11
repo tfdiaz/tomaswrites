@@ -1,10 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "M65235T22W.com.kcse.SMART",
-				"paths": [ "*"]
-			}]
+	"applinks":
+	{
+	   "apps": [],
+	   "details": [
+	   {
+		  "appID": "M65235T22W.com.kcse.SMART",
+		  "paths": ["*"]
+	   }]
 	}
 }
